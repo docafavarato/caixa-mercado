@@ -103,6 +103,7 @@ class Ui(QtWidgets.QMainWindow):
 
                 self.products_list.takeItem(row)
                 self.products_list2.takeItem(row)
+                listed_products.pop(item)
                 for key in products_dict:
                     if item in products_dict[key][0]:
                         final_price -= (products_dict[key][1]*multiplier)
