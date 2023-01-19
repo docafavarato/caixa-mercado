@@ -1,0 +1,17 @@
+products_dict = {
+    'A1': ['Goma de mascar Trident Morango 54g', 13.49],
+    'A2': ['Aveia em flocos finos Nestlé 170g', 4.67],
+    'A3': ['Amendopower pasta de amendoim integral zero 500g', 17.90],
+    'A4': ['Biscoito club social pizza 141g', 5.59],
+    'A5': ['Farinha láctea Nestlé 400g', 11.06],
+    'A6': ['Macarrão Grano Duro Spaguetti N.5 Barilla 500g', 10.34],
+    'A7': ['Maionese Heinz 400g', 9.89],
+    'A8': ['Paprica defumada Prasadam 50g', 9.49],
+    'A9': ['Banana Zero Cartela 180g', 12.39],
+    'A10': ['Mandioca Chips Believe 50g', 6.99],
+    'A11': ['Geleia de morango Fazenda Sedrez 270g', 10.83],
+    'A12': ['Açúcar Demerara Native 1kg', 6.11],
+    'A13': ['Ketchup Heinz Picles 397g', 9.91],
+    'A14': ['Cacau em pó 100g', 11.72],
+    'A15': ['Azeitona verde vale fértil 240g', 4.36],
+}
