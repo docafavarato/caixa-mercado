@@ -5,8 +5,11 @@
 
 ## Functions
 > Registro de produtos cadastrados em um dicionário com seleção da quantidade do mesmo
+
 > Exclusão de produtos selecionados que afeta corretamente o valor final da compra
+
 > Geração de "nota fiscal" com um resumo geral da compra
+
 > Sistema de descontos com códigos cadastrados em um dicionário
 
 ## Images
